@@ -1,3 +1,3 @@
-# DWP Digital Service Portfolio
+# Land Registry Digital Services Portfolio
 
-[Take a look](http://dwp-digital-services.herokuapp.com/)
+[Take a look](http://lr-digital-services.herokuapp.com/)
